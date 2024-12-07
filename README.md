@@ -77,6 +77,7 @@ assign f6=a^b;
 assign f7=~(a^b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
+Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber: 24900612
 ```
